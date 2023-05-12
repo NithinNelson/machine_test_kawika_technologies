@@ -21,7 +21,6 @@ class UserFields {
   static final String followers = 'followers';
   static final String following = 'following';
 }
-// rege
 
 class Users {
   final int? id;
